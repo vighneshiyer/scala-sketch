@@ -1,3 +1,5 @@
 out
 .bsp
 .scala-build
+.metals
+.bloop
